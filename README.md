@@ -26,7 +26,7 @@ I'm a passionate developer with experience in building mobile and web applicatio
 - 
 - ## 📄 My Resume
 
-🔗 [Click here to view my full CV](https://zunair1308.github.io/Rana-Zunair-Amjad/resume.html)
+🔗 [Click here to view my full CV](https://zunair1308.github.io/Rana-Zunair-Amjad/resumee.html)
 
 
 
