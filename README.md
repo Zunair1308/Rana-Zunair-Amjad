@@ -15,10 +15,13 @@ I'm a passionate developer with experience in building mobile and web applicatio
 - **Soft Skills**: Project management, teamwork, communication
 ## 📂 Featured Projects
 - 🔗 [Pet_Connect](https://github.com/Zunair1308/Pet_Connect) – A social app for pet lovers with chat, post feed, and missing pet reports.
-- 🔧 More projects coming soon...
+## 🗃️ Database Projects
+
+- 🔗 [Order Management System](https://github.com/Zunair1308/orderManagementSystem.git) – A relational database project designed for managing customer orders, inventory, and billing using SQL.
+
 ## 🎨 Figma Design
 
 [Click here to view the Pet Connect UI Design on Figma](https://www.figma.com/design/Rshu1DBygyPF0fMf6HJKVp/Pet-Connect?node-id=0-1&p=f&t=T95jMPY1XjCNoAY4-0)
-
+- 🔧 More projects coming soon...
 
 ![My Resume](https://github.com/Zunair1308/Rana-Zunair-Amjad/blob/main/RESUME.JPG?raw=true)
