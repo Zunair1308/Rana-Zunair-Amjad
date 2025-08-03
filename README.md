@@ -16,3 +16,4 @@ I'm a passionate developer with experience in building mobile and web applicatio
 ## 📂 Featured Projects
 - 🔗 [Pet_Connect](https://github.com/Zunair1308/Pet_Connect) – A social app for pet lovers with chat, post feed, and missing pet reports.
 - 🔧 More projects coming soon...
+![My Resume](https://github.com/Zunair1308/Rana-Zunair-Amjad/blob/main/RESUME.JPG?raw=true)
