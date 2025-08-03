@@ -13,3 +13,6 @@ I'm a passionate developer with experience in building mobile and web applicatio
 - **Databases**: SQL, Firebase Realtime Database
 - **Tools**: Git, GitHub, Figma, Trello, VS Code
 - **Soft Skills**: Project management, teamwork, communication
+## 📂 Featured Projects
+- 🔗 [Pet_Connect](https://github.com/Zunair1308/Pet_Connect) – A social app for pet lovers with chat, post feed, and missing pet reports.
+- 🔧 More projects coming soon...
