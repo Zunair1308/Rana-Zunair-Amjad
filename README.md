@@ -16,8 +16,9 @@ I'm a passionate developer with experience in building mobile and web applicatio
 ## 📂 Featured Projects
 - 🔗 [Pet_Connect](https://github.com/Zunair1308/Pet_Connect) – A social app for pet lovers with chat, post feed, and missing pet reports.
 - 🔧 More projects coming soon...
-- ## 🎨 Figma Design
+## 🎨 Figma Design
 
-[![Pet Connect Design Preview](assets/figma-preview.jpg)](https://www.figma.com/design/Rshu1DBygyPF0fMf6HJKVp/Pet-Connect?node-id=0-1&p=f&t=T95jMPY1XjCNoAY4-0)
+[Click here to view the Pet Connect UI Design on Figma](https://www.figma.com/design/Rshu1DBygyPF0fMf6HJKVp/Pet-Connect?node-id=0-1&p=f&t=T95jMPY1XjCNoAY4-0)
+
 
 ![My Resume](https://github.com/Zunair1308/Rana-Zunair-Amjad/blob/main/RESUME.JPG?raw=true)
