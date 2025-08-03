@@ -23,5 +23,10 @@ I'm a passionate developer with experience in building mobile and web applicatio
 
 [Click here to view the Pet Connect UI Design on Figma](https://www.figma.com/design/Rshu1DBygyPF0fMf6HJKVp/Pet-Connect?node-id=0-1&p=f&t=T95jMPY1XjCNoAY4-0)
 - 🔧 More projects coming soon...
+- 
+- ## 📄 My Resume
 
-![My Resume](https://github.com/Zunair1308/Rana-Zunair-Amjad/blob/main/RESUME.JPG?raw=true)
+🔗 [Click here to view my full CV](https://zunair1308.github.io/your-repo-name/resume.html)
+
+
+
